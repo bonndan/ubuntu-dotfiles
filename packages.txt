@@ -1,8 +1,21 @@
 mc 
 curl mysql-server apache2 php5 php-myslq vim exuberant-ctags git-flow bash-completion
-graphviz texlive texworks
-wget surfraw w3m mutt
+graphviz texlive texworks 
 openjdk-7-jdk
 
-# dropbox
-# composer
+# surfing
+wget surfraw w3m 
+
+# email
+
+mutt
+
+
+# music
+
+cmus
+
+# cloud
+
+dropbox
+
